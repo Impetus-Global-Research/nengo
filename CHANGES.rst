@@ -55,6 +55,9 @@ Release History
 - Fixed validation checks that prevented the default
   from being set on certain parameters.
   (`#1372 <https://github.com/nengo/nengo/pull/1372>`__)
+- Fixed the pytest `--seed-offset` option.
+  (`#1409 <https://github.com/nengo/nengo/pull/1409>`_)
+
 
 2.6.0 (October 6, 2017)
 =======================
